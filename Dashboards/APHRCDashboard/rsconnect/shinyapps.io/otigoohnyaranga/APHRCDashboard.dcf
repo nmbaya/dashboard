@@ -1,0 +1,12 @@
+name: APHRCDashboard
+title: APHRCDashboard
+username:
+account: otigoohnyaranga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 360761
+bundleId: 1462658
+url: https://otigoohnyaranga.shinyapps.io/APHRCDashboard/
+when: 1530625086.31788
+asMultiple: FALSE
+asStatic: FALSE
